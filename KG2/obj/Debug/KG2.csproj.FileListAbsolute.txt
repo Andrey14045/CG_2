@@ -1,0 +1,16 @@
+D:\Homework2\KG2\KG2\bin\Debug\KG2.exe.config
+D:\Homework2\KG2\KG2\bin\Debug\KG2.exe
+D:\Homework2\KG2\KG2\bin\Debug\KG2.pdb
+D:\Homework2\KG2\KG2\obj\Debug\KG2.Properties.Resources.resources
+D:\Homework2\KG2\KG2\obj\Debug\KG2.csproj.GenerateResource.cache
+D:\Homework2\KG2\KG2\obj\Debug\KG2.exe
+D:\Homework2\KG2\KG2\obj\Debug\KG2.pdb
+D:\Homework2\KG2\KG2\obj\Debug\KG2.csproj.CopyComplete
+D:\Homework2\KG2\KG2\bin\Debug\OpenTK.GLControl.dll
+D:\Homework2\KG2\KG2\bin\Debug\OpenTK.GLControl.xml
+D:\Homework2\KG2\KG2\obj\Debug\KG2.Form1.resources
+D:\Homework2\KG2\KG2\obj\Debug\KG2.csprojAssemblyReference.cache
+D:\Homework2\KG2\KG2\bin\Debug\OpenTK.dll
+D:\Homework2\KG2\KG2\bin\Debug\OpenTK.pdb
+D:\Homework2\KG2\KG2\bin\Debug\OpenTK.xml
+D:\Homework2\KG2\KG2\bin\Debug\OpenTK.dll.config

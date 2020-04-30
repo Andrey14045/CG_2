@@ -1,0 +1,5 @@
+C:\Users\днс\Documents\OpenTK\1.1\Binaries\Tools\Debug\Build.UpdateVersion.exe
+C:\Users\днс\Documents\OpenTK\1.1\Binaries\Tools\Debug\Build.UpdateVersion.pdb
+C:\Users\днс\Documents\OpenTK\1.1\Source\Build.UpdateVersion\obj\Debug\Build.UpdateVersion.csprojAssemblyReference.cache
+C:\Users\днс\Documents\OpenTK\1.1\Source\Build.UpdateVersion\obj\Debug\Build.UpdateVersion.exe
+C:\Users\днс\Documents\OpenTK\1.1\Source\Build.UpdateVersion\obj\Debug\Build.UpdateVersion.pdb

@@ -1,0 +1,7 @@
+C:\Users\днс\Documents\OpenTK\1.1\Binaries\OpenTK\Debug\OpenTK.dll.config
+C:\Users\днс\Documents\OpenTK\1.1\Binaries\OpenTK\Debug\OpenTK.xml
+C:\Users\днс\Documents\OpenTK\1.1\Binaries\OpenTK\Debug\OpenTK.dll
+C:\Users\днс\Documents\OpenTK\1.1\Binaries\OpenTK\Debug\OpenTK.pdb
+C:\Users\днс\Documents\OpenTK\1.1\Source\OpenTK\obj\Debug\OpenTK.csprojAssemblyReference.cache
+C:\Users\днс\Documents\OpenTK\1.1\Source\OpenTK\obj\Debug\OpenTK.dll
+C:\Users\днс\Documents\OpenTK\1.1\Source\OpenTK\obj\Debug\OpenTK.pdb
